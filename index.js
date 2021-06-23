@@ -16,6 +16,7 @@ let dates = [
 ]
 let limit = 30;
 
+run();
 setInterval(run, 10000);
 
 
